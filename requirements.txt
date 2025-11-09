@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+matplotlib
+pathlib
+io
+traceback
+os
