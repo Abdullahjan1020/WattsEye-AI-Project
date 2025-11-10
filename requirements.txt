@@ -5,6 +5,3 @@ numpy
 joblib
 matplotlib
 pathlib
-io
-traceback
-os
